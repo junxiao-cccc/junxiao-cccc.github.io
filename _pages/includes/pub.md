@@ -26,3 +26,8 @@
 - Wang M , Li X Z , Xiao J （肖军，通讯）, et al. An experimental analysis of the aerodynamic characteristics of a high-speed train on a bridge under crosswinds. **Journal of Wind Engineering and Industrial Aerodynamics, 2018, 177:92-100.**
 - Li X Z , Wang M, Xiao J（肖军）, et al. Experimental study on aerodynamic characteristics of high-speed train on a truss bridge: A moving model test. **Journal of Wind Engineering & Industrial Aerodynamics the Journal of the International Association for Wind Engineering, 2018.**
 - Li X Z , Wang M, Xiao J（肖军）, et al. Experimental study on aerodynamic characteristics of high-speed train on a truss bridge: A moving model test. **Journal of Wind Engineering & Industrial Aerodynamics the Journal of the International Association for Wind Engineering, 2018.**
+- Li X Z , Xiao J （肖军，通讯）,Liu D J, et al. An analytical model for the fluctuating wind velocity spectra of a moving vehicle. **Journal of Wind Engineering & Industrial Aerodynamics, 2017,Vol.164.**
+- 肖军,李小珍,刘德军,刘晨光,肖林.一种剪滞翘曲位移函数的解析构造法.**哈尔滨工业大学学报,2017,49(03):162-167.**
+- 肖军,李小珍,刘德军,刘晨光,肖林.不同位移函数对箱梁剪力滞效应的影响.**中国公路学报,2016,29(09):90-96.**
+- 肖军, 代洋, 张永水. 基于子结构中弯曲波的拉索索力识别方法. **土木与环境工程学报（中英文）, 2020, 42(4):9.**
+- 肖军,李松,刘永健,张永水.叠合梁施工工艺调整对斜拉桥施工索力的影响.**中外公路,2020,40(04):101-104.** 
