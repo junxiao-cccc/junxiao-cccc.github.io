@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "近况"
-    url: "/#-近况"
+    url: "/#-news"
 
   - title: "学术论文"
     url: "/#-publications"
