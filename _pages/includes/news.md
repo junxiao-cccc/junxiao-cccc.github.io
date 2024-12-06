@@ -1,6 +1,4 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.12*: &nbsp;🎉🎉 被评选为“中交二公局十大杰出青年”,中交第二公路工程局有限公司
+- *2024.10*: &nbsp;🎉🎉 获批组建“桥梁工程智能建造科技研发党员示范岗（中交集团第三批党员示范岗）”,中国交通建设集团有限公司
+- *2024.09*: &nbsp;🎉🎉 创建中交二公局“肖军创新工作室”,中交第二公路工程局有限公司
