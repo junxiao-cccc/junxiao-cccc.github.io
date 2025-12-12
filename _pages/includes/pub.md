@@ -13,7 +13,11 @@
 </div>
 </div>
 -->
--  Research on Elevation Survey Method of Sea-Crossing Bridge under Adverse Conditions. **Sustainability 2022, 14, 11641.**
+- Temperature field simulation method and average temperature prediction on main cables of suspension bridges.**Engineering Structures 2025.**
+- Investigation on the accuracy index of main-girder alignment for a distinctive single-tower cable-stayed–suspension cooperative system bridge based on reliability analysis.**Structures 2025.**
+- 悬索桥主缆缠丝张力损失特征与机理.**哈尔滨工业大学学报,2025.**
+- Research on virtual trial-assembly technology of steel-pipe-arch ribs based on limited perception.**Advances in Bridge Engineering 2025.**
+- Research on Elevation Survey Method of Sea-Crossing Bridge under Adverse Conditions. **Sustainability 2022, 14, 11641.**
 - Design and Working Performance Evaluation of a Combined Survey Platform under Strong Wave and Deep-Water Conditions.**Sustainability 2022, 14, 14360.**
 - Three-Dimensional Temperature Field Simulation and Analysis of a Concrete Bridge Tower Considering the Influence of Sunshine Shadow. **Appl. Sci. 2023, 13, 4769.**
 - Simulation study on sunshine temperature field of a concrete box girder of cable-stayed bridges. **Sustainability 2023.**
